@@ -1,0 +1,2 @@
+rootProject.name='SistemaHomologacion'
+include ':app'
